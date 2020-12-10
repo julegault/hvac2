@@ -91,6 +91,7 @@
             </archive>
           </configuration>
         </plugin>
+
         <!-- plugin added from internet -->
       </plugins>
     </pluginManagement>
