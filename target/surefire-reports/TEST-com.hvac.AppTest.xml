@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.hvac.AppTest" time="0.037" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.hvac.AppTest" time="0.059" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="13"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-13.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\chapo\AppData\Local\Temp\surefire14092572306921008769\surefirebooter12150838118384944578.jar C:\Users\chapo\AppData\Local\Temp\surefire14092572306921008769 2020-12-09T21-55-59_784-jvmRun1 surefire1958970848231774392tmp surefire_07177523426634015274tmp"/>
+    <property name="sun.java.command" value="C:\Users\chapo\AppData\Local\Temp\surefire8794276392157041048\surefirebooter2123355911974387236.jar C:\Users\chapo\AppData\Local\Temp\surefire8794276392157041048 2020-12-09T23-11-43_818-jvmRun1 surefire6036518709405410786tmp surefire_0304894213030030367tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\chapo\IdeaProjects\hvac2\target\test-classes;C:\Users\chapo\IdeaProjects\hvac2\target\classes;C:\Users\chapo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\chapo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\chapo\.m2\repository\com\microsoft\signalr\signalr\5.0.0\signalr-5.0.0.jar;C:\Users\chapo\.m2\repository\io\reactivex\rxjava2\rxjava\2.2.3\rxjava-2.2.3.jar;C:\Users\chapo\.m2\repository\org\reactivestreams\reactive-streams\1.0.2\reactive-streams-1.0.2.jar;C:\Users\chapo\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\chapo\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\chapo\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\chapo\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\chapo\AppData\Local\Temp\surefire14092572306921008769\surefirebooter12150838118384944578.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\chapo\AppData\Local\Temp\surefire8794276392157041048\surefirebooter2123355911974387236.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="13.0.2+8"/>
@@ -56,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="57.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.hvac.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.hvac.AppTest" time="0.003"/>
 </testsuite>
