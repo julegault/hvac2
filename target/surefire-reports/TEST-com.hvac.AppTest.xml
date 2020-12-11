@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.hvac.AppTest" time="0.576" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="13"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\chapo\IdeaProjects\hvac2\target\test-classes;C:\Users\chapo\IdeaProjects\hvac2\target\classes;C:\Users\chapo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\chapo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\chapo\.m2\repository\com\microsoft\signalr\signalr\5.0.0\signalr-5.0.0.jar;C:\Users\chapo\.m2\repository\io\reactivex\rxjava2\rxjava\2.2.3\rxjava-2.2.3.jar;C:\Users\chapo\.m2\repository\org\reactivestreams\reactive-streams\1.0.2\reactive-streams-1.0.2.jar;C:\Users\chapo\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\chapo\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\chapo\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\chapo\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Toronto"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="13"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-13.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\chapo\AppData\Local\Temp\surefire8434251810963714736\surefirebooter14467139657324600003.jar C:\Users\chapo\AppData\Local\Temp\surefire8434251810963714736 2020-12-11T16-06-03_635-jvmRun1 surefire16570778154338450731tmp surefire_02573768733633902882tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\chapo\IdeaProjects\hvac2\target\test-classes;C:\Users\chapo\IdeaProjects\hvac2\target\classes;C:\Users\chapo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\chapo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\chapo\.m2\repository\com\microsoft\signalr\signalr\5.0.0\signalr-5.0.0.jar;C:\Users\chapo\.m2\repository\io\reactivex\rxjava2\rxjava\2.2.3\rxjava-2.2.3.jar;C:\Users\chapo\.m2\repository\org\reactivestreams\reactive-streams\1.0.2\reactive-streams-1.0.2.jar;C:\Users\chapo\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\chapo\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\chapo\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\chapo\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\chapo"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-13.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\chapo\IdeaProjects\hvac2"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\chapo\AppData\Local\Temp\surefire8434251810963714736\surefirebooter14467139657324600003.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="13.0.2+8"/>
+    <property name="user.name" value="chapo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\chapo\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\chapo\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2020.3"/>
+    <property name="java.version" value="13.0.2"/>
+    <property name="user.dir" value="C:\Users\chapo\IdeaProjects\hvac2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-13.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-13.0.2\bin;C:\Python38\Scripts\;C:\Python38\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Windows\System32;C:\Program Files (x86)\GitExtensions\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\chapo\AppData\Local\Microsoft\WindowsApps;C:\Users\chapo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\chapo\.dotnet\tools;C:\Users\chapo\AppData\Roaming\npm;C:\Windows\System32;C:\Program Files (x86)\Mikero\DePboTools\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1.2\bin;C:\Users\chapo\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="13.0.2+8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="57.0"/>
+  </properties>
+  <testcase name="getMaxTemperature" classname="com.hvac.AppTest" time="0.004"/>
+  <testcase name="getMinTemperature" classname="com.hvac.AppTest" time="0"/>
+  <testcase name="setupController" classname="com.hvac.AppTest" time="0.52"/>
+  <testcase name="getHost" classname="com.hvac.AppTest" time="0"/>
+  <testcase name="getApiURL" classname="com.hvac.AppTest" time="0"/>
+  <testcase name="getHubURL" classname="com.hvac.AppTest" time="0"/>
+  <testcase name="getToken" classname="com.hvac.AppTest" time="0"/>
+</testsuite>
